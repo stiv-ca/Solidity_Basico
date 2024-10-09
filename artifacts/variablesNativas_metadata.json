@@ -110,11 +110,11 @@
 	},
 	"sources": {
 		"variablesNativas.sol": {
-			"keccak256": "0x7748703d54095c847d356fe80062f8b3ef59448e26c446558e46ef9bef81edc9",
+			"keccak256": "0xa42124f73c2a05b111c5e3f6c787ec035a953765595bcae0b47b93a719ff884e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f71d2234cb6dfcfc793e4295a51d7319ed303e42ccd9fefbecde4642baf08909",
-				"dweb:/ipfs/QmakSL7Pf2ntZBeiRGwgkFzahvdzVBx5g6WhChtSwqNboc"
+				"bzz-raw://1617ec1f40c14f7db0ec8e7900ecf073b92ab41d4dffbeef3190adf52c9997b2",
+				"dweb:/ipfs/QmWmtrbbgho2B6uKTGmfZTkyJgzuV5GyvLBe8AwAykTzwZ"
 			]
 		}
 	},
